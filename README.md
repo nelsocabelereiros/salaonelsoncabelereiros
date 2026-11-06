@@ -1,3 +1,5 @@
 # Nelson Cabeleireiros
 
-Site estático para publicação no GitHub Pages. O arquivo `index.html` e a pasta `assets/` ficam na raiz para que fotos e estilos carreguem sem etapa de build.
+Pacote do site para GitHub Pages. Envie o conteúdo deste pacote para a raiz do repositório, mantendo `index.html` ao lado da pasta `assets/`. As fotos do site estão em `assets/`.
+
+No GitHub, em Settings → Pages, selecione a branch `main` e a pasta `/ (root)`.
